@@ -1,4 +1,5 @@
 package WWW::Pipeline::Services;
+$VERSION = '0.1';
 
 #-- pragmas ----------------------------
  use strict;

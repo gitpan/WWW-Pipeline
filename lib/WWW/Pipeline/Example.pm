@@ -1,4 +1,6 @@
 package WWW::Pipeline::Example;
+$VERSION = '0.1';
+
 use base 'WWW::Pipeline';
 
 =head1 WWW::Pipeline::Example
